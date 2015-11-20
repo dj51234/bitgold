@@ -356,21 +356,23 @@ td, th {
       line-height: 32px; }
       #hero .hero-content p:nth-child(3) {
         margin-top: 45px; }
-  #hero .nav img {
-    float: left;
-    width: 150px;
-    height: auto;
-    padding: 15px 0; }
-  #hero .nav ul {
-    float: right;
-    padding: 5px 0; }
-    #hero .nav ul li {
-      display: inline-block;
-      margin: 0 10px; }
-      #hero .nav ul li:last-of-type {
-        margin-right: 0; }
-      #hero .nav ul li a {
-        color: white;
-        text-decoration: none; }
-        #hero .nav ul li a:hover {
-          color: #FFBE10; }
+  #hero .nav {
+    padding: 0 10px; }
+    #hero .nav img {
+      float: left;
+      width: 150px;
+      height: auto;
+      padding: 15px 0; }
+    #hero .nav ul {
+      float: right;
+      padding: 5px 0; }
+      #hero .nav ul li {
+        display: inline-block;
+        margin: 0 10px; }
+        #hero .nav ul li:last-of-type {
+          margin-right: 0; }
+        #hero .nav ul li a {
+          color: white;
+          text-decoration: none; }
+          #hero .nav ul li a:hover {
+            color: #FFBE10; }
